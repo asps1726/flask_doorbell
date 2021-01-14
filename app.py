@@ -4,7 +4,7 @@ from datetime import datetime
 import winsound 
 
 music = '夜に駆ける.wav'
-host = "192.168.50.101"
+host = "0.0.0.0"
 
 
 today = datetime.now()
